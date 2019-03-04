@@ -85,12 +85,27 @@
 		
 		<!-- Multi image picker (multiple_media_picker) Library START-->
 		<!-- SRC -->
-		<source-file src="src/android/Library/src/multiple_media_picker/Gallery.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/FileProcessing.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Utility.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Image/ImageActivity.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Image/ImageConfig.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Image/ImagePicker.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Image/ImagePickerBuilderBase.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Image/ImageProcessing.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Image/ImageTags.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Video/VideoActivity.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Video/VideoConfig.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Video/VideoPicker.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Video/VideoPickerBuilderBase.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Video/VideoProcessing.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/mediapicker/Video/VideoTags.java" target-dir="src/com/synconset"/>
+		
+<!-- 		<source-file src="src/android/Library/src/multiple_media_picker/Gallery.java" target-dir="src/com/synconset"/>
 		<source-file src="src/android/Library/src/multiple_media_picker/OpenGallery.java" target-dir="src/com/synconset"/>
 		<source-file src="src/android/Library/src/multiple_media_picker/Adapters/BucketsAdapter.java" target-dir="src/com/synconset"/>
 		<source-file src="src/android/Library/src/multiple_media_picker/Adapters/MediaAdapter.java" target-dir="src/com/synconset"/>
 		<source-file src="src/android/Library/src/multiple_media_picker/Fragments/OneFragment.java" target-dir="src/com/synconset"/>
-		<source-file src="src/android/Library/src/multiple_media_picker/Fragments/TwoFragment.java" target-dir="src/com/synconset"/>
+		<source-file src="src/android/Library/src/multiple_media_picker/Fragments/TwoFragment.java" target-dir="src/com/synconset"/> -->
 		
 		<!-- RES -->
 <!-- 		<source-file src="src/android/Library/res/drawable/arrow_back.xml" target-dir="res/drawable"/>
