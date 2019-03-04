@@ -125,14 +125,14 @@
 		<source-file src="src/android/Library/res/menu/open_gallery_menu.xml" target-dir="res/menu"/>
 		<source-file src="src/android/Library/res/values/multiple_media_picker_colors.xml" target-dir="res/values"/>
 		<source-file src="src/android/Library/res/values/dimens.xml" target-dir="res/values"/>
-		<source-file src="src/android/Library/res/values/multiple_media_picker_strings.xml" target-dir="res/values"/>
+<!-- 		<source-file src="src/android/Library/res/values/multiple_media_picker_strings.xml" target-dir="res/values"/> -->
 		<source-file src="src/android/Library/res/values/multiple_media_picker_styles.xml" target-dir="res/values"/>
 		<source-file src="src/android/Library/res/values-w820dp/dimens.xml" target-dir="res/values-w820dp"/>
 
 		
 		<!-- Multi image picker (multiple_media_picker) Library END-->
 		
-        <source-file src="src/android/Library/res/anim/image_pop_in.xml" target-dir="res/anim"/>
+        	<source-file src="src/android/Library/res/anim/image_pop_in.xml" target-dir="res/anim"/>
 		<source-file src="src/android/Library/res/drawable/grid_background.xml" target-dir="res/drawable"/>
 		<source-file src="src/android/Library/res/drawable-hdpi/image_bg.9.png" target-dir="res/drawable-hdpi"/>
 		<source-file src="src/android/Library/res/drawable-hdpi/loading_icon.png" target-dir="res/drawable-hdpi"/>
