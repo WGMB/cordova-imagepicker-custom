@@ -93,7 +93,7 @@
 		<source-file src="src/android/Library/src/multiple_media_picker/Fragments/TwoFragment.java" target-dir="src/com/synconset"/>
 		
 		<!-- RES -->
-		<source-file src="src/android/Library/res/drawable/arrow_back.xml" target-dir="res/drawable"/>
+<!-- 		<source-file src="src/android/Library/res/drawable/arrow_back.xml" target-dir="res/drawable"/>
 		<source-file src="src/android/Library/res/drawable-hdpi/ic_camera_alt_white_24dp.png" target-dir="res/drawable-hdpi"/>
 		<source-file src="src/android/Library/res/drawable-hdpi/ic_check_white_48dp.png" target-dir="res/drawable-hdpi"/>
 		<source-file src="src/android/Library/res/drawable-hdpi/ic_select_all_white_24dp.png" target-dir="res/drawable-hdpi"/>
@@ -124,10 +124,10 @@
 		<source-file src="src/android/Library/res/layout/media_item.xml" target-dir="res/layout"/>
 		<source-file src="src/android/Library/res/menu/open_gallery_menu.xml" target-dir="res/menu"/>
 		<source-file src="src/android/Library/res/values/multiple_media_picker_colors.xml" target-dir="res/values"/>
-		<source-file src="src/android/Library/res/values/dimens.xml" target-dir="res/values"/>
+		<source-file src="src/android/Library/res/values/dimens.xml" target-dir="res/values"/> -->
 <!-- 		<source-file src="src/android/Library/res/values/multiple_media_picker_strings.xml" target-dir="res/values"/> -->
-		<source-file src="src/android/Library/res/values/multiple_media_picker_styles.xml" target-dir="res/values"/>
-		<source-file src="src/android/Library/res/values-w820dp/dimens.xml" target-dir="res/values-w820dp"/>
+<!-- 		<source-file src="src/android/Library/res/values/multiple_media_picker_styles.xml" target-dir="res/values"/>
+		<source-file src="src/android/Library/res/values-w820dp/dimens.xml" target-dir="res/values-w820dp"/> -->
 
 		
 		<!-- Multi image picker (multiple_media_picker) Library END-->
