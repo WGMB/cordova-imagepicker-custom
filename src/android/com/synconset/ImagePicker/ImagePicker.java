@@ -54,8 +54,8 @@ public class ImagePicker extends CordovaPlugin {
 				// Set the title
 				intent.putExtra("title","Select media");
 				// Mode 1 for both images and videos selection, 2 for images only and 3 for videos!
-				intent.putExtra("mode",1); 
-				intent.putExtra("maxSelection",3); // Optional
+				intent.putExtra("mode",2); 
+				//intent.putExtra("maxSelection",3); // Optional
 				this.cordova.startActivityForResult((CordovaPlugin) this, intent, OPEN_MEDIA_PICKER);
 				//startActivityForResult(intent,OPEN_MEDIA_PICKER);
 			}
